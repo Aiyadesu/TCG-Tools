@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayerLife.qml</file>
+        <file>+windows/+winphone/main.qml</file>
+        <file>+windows/main.qml</file>
+    </qresource>
+</RCC>
